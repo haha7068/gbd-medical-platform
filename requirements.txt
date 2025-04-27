@@ -13,3 +13,4 @@ xgboost
 chardet
 pillow
 openpyxl
+kaleido
