@@ -11,3 +11,4 @@ python-docx
 pmdarima
 xgboost
 chardet
+pillow
