@@ -12,3 +12,4 @@ pmdarima
 xgboost
 chardet
 pillow
+openpyxl
