@@ -313,10 +313,7 @@ if dfs:
 
         # ========== ⚖️ 分组对比分析 Comparison Analysis ==========
         st.subheader("⚖️ 分组对比分析 Comparison Analysis")
-        if not dfs:
-            st.warning("⚠ 当前没有上传数据，请先在侧边栏上传数据！")
-            st.stop()
-
+        
         compare_cols = df.select_dtypes(include=np.number).columns.tolist()
         category_cols = df.select_dtypes(exclude=np.number).columns.tolist()
 
@@ -379,10 +376,7 @@ if dfs:
 
         # ========== 🧪 非参数检验 Non-Parametric Test ========== #
         st.subheader("🧪 非参数检验 Non-Parametric Test")
-        if not dfs:
-            st.warning("⚠ 当前没有上传数据，请先在侧边栏上传数据！")
-            st.stop()
-
+        
         np_category_cols = df.select_dtypes(exclude=np.number).columns.tolist()
         np_numeric_cols = df.select_dtypes(include=np.number).columns.tolist()
 
