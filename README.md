@@ -1,13 +1,80 @@
-streamlit
-pandas
-numpy
-matplotlib
-scipy
-plotly
-scikit-learn
-lifelines
-statsmodels
-python-docx
-pmdarima
-xgboost
-chardet
+altair                    5.5.0
+attrs                     25.3.0
+autograd                  1.7.0
+autograd-gamma            0.5.0
+blinker                   1.9.0
+Bottleneck                1.4.2
+Brotli                    1.0.9
+cachetools                5.5.2
+certifi                   2025.4.26
+chardet                   5.2.0
+charset-normalizer        3.4.1
+click                     8.1.8
+colorama                  0.4.6
+contourpy                 1.3.2
+cycler                    0.12.1
+Cython                    3.0.11
+docx                      0.2.4
+et_xmlfile                2.0.0
+fonttools                 4.57.0
+formulaic                 1.1.1
+gitdb                     4.0.12
+GitPython                 3.1.44
+idna                      3.10
+interface-meta            1.3.0
+Jinja2                    3.1.6
+joblib                    1.4.2
+jsonschema                4.23.0
+jsonschema-specifications 2025.4.1
+kaleido                   0.2.1
+kiwisolver                1.4.8
+lifelines                 0.30.0
+lxml                      5.4.0
+MarkupSafe                3.0.2
+matplotlib                3.10.1
+mkl_fft                   1.3.11
+mkl_random                1.2.8
+mkl-service               2.4.0
+narwhals                  1.36.0
+numexpr                   2.10.1
+numpy                     1.24.4
+openpyxl                  3.1.5
+packaging                 24.2
+pandas                    2.2.3
+patsy                     1.0.1
+pillow                    11.2.1
+pip                       25.1
+plotly                    6.0.1
+pmdarima                  2.0.4
+protobuf                  5.29.4
+pyarrow                   19.0.1
+pycountry                 24.6.1
+pydeck                    0.9.1
+pyparsing                 3.2.3
+PySocks                   1.7.1
+python-dateutil           2.9.0.post0
+python-docx               1.1.2
+pytz                      2024.1
+referencing               0.36.2
+requests                  2.32.3
+rpds-py                   0.24.0
+scikit-learn              1.6.1
+scipy                     1.15.2
+seaborn                   0.13.2
+setuptools                72.1.0
+six                       1.17.0
+smmap                     5.0.2
+statsmodels               0.14.4
+streamlit                 1.44.1
+tenacity                  9.1.2
+threadpoolctl             3.5.0
+toml                      0.10.2
+tornado                   6.4.2
+typing_extensions         4.13.2
+tzdata                    2023.3
+urllib3                   2.3.0
+watchdog                  6.0.0
+wheel                     0.45.1
+win-inet-pton             1.1.0
+wrapt                     1.17.2
+xgboost                   3.0.0
