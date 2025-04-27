@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+matplotlib
+scipy
+plotly
+scikit-learn
+lifelines
+statsmodels
+python-docx
+pmdarima
+xgboost
+chardet
